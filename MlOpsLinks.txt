@@ -4,3 +4,6 @@ https://www.kdnuggets.com/2019/06/approaches-deploying-machine-learning-producti
 
 #Installing pytorch on mac
 conda install pytorch torchvision -c pytorch
+
+#Installation of ONNX on mac
+conda install -c conda-forge onnx
