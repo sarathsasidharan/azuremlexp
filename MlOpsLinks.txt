@@ -2,5 +2,5 @@ https://www.kdnuggets.com/2019/06/approaches-deploying-machine-learning-producti
 
 -- Commands
 
-#Installing pytorch
+#Installing pytorch on mac
 conda install pytorch torchvision -c pytorch
