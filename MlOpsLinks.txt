@@ -1,0 +1,6 @@
+https://www.kdnuggets.com/2019/06/approaches-deploying-machine-learning-production.html
+
+-- Commands
+
+#Installing pytorch
+conda install pytorch torchvision -c pytorch
