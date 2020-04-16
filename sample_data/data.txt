@@ -1,0 +1,1 @@
+Since we are using the MNIST dataset from the library there is no sample data to share
